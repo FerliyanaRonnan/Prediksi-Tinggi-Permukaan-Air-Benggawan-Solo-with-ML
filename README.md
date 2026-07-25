@@ -2,6 +2,7 @@
 ### Sebelas Maret Statistics & Data Science Competition 2026
 
 **Ferliyana Ronnan, ig: @ron.nan7**
+
 **Kampus:** Universitas Negeri Surabaya (UNESA)
 
 ---
